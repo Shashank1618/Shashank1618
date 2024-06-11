@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects, hackathons and new startups.
 - 📫 How to reach me @ shashankawasthi426@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love travelling.
+
 
 <!---
 Shashank1618/Shashank1618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
