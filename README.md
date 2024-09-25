@@ -1,4 +1,6 @@
-[![MasterHead](https://th.bing.com/th/id/R.29702f5ed32d7ad06144dec0487a61df?rik=MSdCz1cxUrIXQA&riu=http%3a%2f%2fwww.kodelabs.in%2fimg%2fcourse%2ffull-stack.png&ehk=IkF1VPFc8NiQl95QgyvJxw6w3ndNkH6Va1VH%2bx%2bPh8k%3d&risl=&pid=ImgRaw&r=0)](https://shashank1618.io)
+<p align="center">
+  <img src="https://th.bing.com/th/id/R.29702f5ed32d7ad06144dec0487a61df?rik=MSdCz1cxUrIXQA&riu=http%3a%2f%2fwww.kodelabs.in%2fimg%2fcourse%2ffull-stack.png&ehk=IkF1VPFc8NiQl95QgyvJxw6w3ndNkH6Va1VH%2bx%2bPh8k%3d&risl=&pid=ImgRaw&r=0" alt="MasterHead"/>
+</p>
 <h1 align="center">Hi 👋, I'm Shashank Awasthi</h1>
 
 <h3 align="center">Bridging the gap between front-end finesse and back-end brilliance</h3>
@@ -14,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashank-awasthi-52953829b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashank-awasthi-52953829b/" height="30" width="40" /></a>
+<a href="linkedin.com/in/shashank-awasthi-52953829b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashank-awasthi-52953829b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
